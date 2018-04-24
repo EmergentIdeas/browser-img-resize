@@ -1,0 +1,27 @@
+{
+  "name": "browser-img-resize",
+  "version": "1.0.0",
+  "description": "Resize an image in the browser",
+  "main": "browser-img-resize",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmergentIdeas/browser-img-resize.git"
+  },
+  "keywords": [
+    "browser",
+    "image",
+    "resize",
+    "jpg",
+    "jpeg",
+    "png"
+  ],
+  "author": "Dan Kolz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmergentIdeas/browser-img-resize/issues"
+  },
+  "homepage": "https://github.com/EmergentIdeas/browser-img-resize#readme"
+}
